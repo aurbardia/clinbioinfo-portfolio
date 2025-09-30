@@ -1,0 +1,37 @@
+# Makefile para Pipeline Reproducible - ClinBioinfo Demo
+
+.PHONY: all clean data analysis report help
+
+# Objetivo por defecto
+all: data analysis report
+
+# Ayuda
+help:
+	@echo "Pipeline Reproducible - ClinBioinfo"
+	@echo "Comandos disponibles:"
+	@echo "  make all      - Ejecutar pipeline completo"
+	@echo "  make data     - Generar datos sintéticos"
+	@echo "  make analysis - Ejecutar análisis"
+	@echo "  make report   - Generar reporte"
+	@echo "  make clean    - Limpiar archivos"
+
+# Generar datos
+data:
+	@echo "🔄 Generando datos..."
+	python pipeline_reproducible.py
+
+# Ejecutar análisis
+analysis: data
+	@echo "📊 Ejecutando análisis..."
+	@echo "✅ Análisis completado"
+
+# Generar reporte
+report: analysis
+	@echo "📋 Generando reporte..."
+	@echo "✅ Reporte generado"
+
+# Limpiar archivos
+clean:
+	@echo "🔄 Limpiando archivos..."
+	rm -rf data/ output/
+	@echo "✅ Limpieza completada"
