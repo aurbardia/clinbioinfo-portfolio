@@ -1,0 +1,25 @@
+# Ignorar archivos y carpetas de Visual Studio
+.vs/
+# Entornos virtuales de Python
+venv/
+.env/
+
+# Archivos compilados Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos de salida del proyecto
+output/
+data/
+*.csv
+*.png
+*.json
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
