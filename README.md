@@ -1,9 +1,9 @@
-# 🧬 ClinBioinfo Portfolio - Medicina Computacional
+# ClinBioinfo Portfolio - Medicina Computacional
 
-**Autor**: [Tu Nombre]  
+**Autor**: Aurora Barroso Díaz  
 **Objetivo**: Demostrar competencias técnicas alineadas con las líneas de investigación de ClinBioinfo / Plataforma Andaluza de Medicina Computacional.
 
-## 🎯 Sobre este portafolio
+## Sobre este portafolio
 
 Este repositorio contiene **5 mini-proyectos** que reflejan mi experiencia en:
 - **Vigilancia genómica y epidemiológica**
@@ -12,16 +12,16 @@ Este repositorio contiene **5 mini-proyectos** que reflejan mi experiencia en:
 - **Dashboards interactivos para medicina de precisión**
 - **Reproducibilidad y control de versiones en ciencia**
 
-## 🏥 Mi experiencia previa
+## Mi experiencia previa
 
 - **3 años** en Servicio de Electromedicina - Hospital Universitario Virgen del Rocío
 - Coordinación de instalación de equipos médicos críticos
-- Gestión de alertas sanitarias y documentación regulatoria
+- Gestión integral de alertas sanitarias y documentación regulatoria
 - Administración de control de versiones (Tortoise SVN)
 - Liderazgo de plataforma de divulgación **Electroforma**
 - Programación: **Python, Java, Matlab, SQL**
 
-## 📁 Estructura del portafolio
+## Estructura del portafolio
 
 ### [Proyecto 1: Vigilancia Genómica](./project1_vigilancia_genomica/)
 Simulación de pipeline para detección de mutaciones en secuencias virales (inspirado en SIEGA).
@@ -48,7 +48,7 @@ Ejemplo de pipeline reproducible con control de dependencias.
 - **Tecnologías**: Python, R, Docker, requirements.txt
 - **Aplicación**: FAIR data y open science
 
-## 🔗 Conexión con ClinBioinfo
+## Conexión con ClinBioinfo
 
 | Mi experiencia | Línea ClinBioinfo | Proyecto demo |
 |---|---|---|
@@ -58,15 +58,14 @@ Ejemplo de pipeline reproducible con control de dependencias.
 | Divulgación (Electroforma) | Formación y comunicación | Proyecto 4 |
 | Control de versiones SVN | Reproducibilidad científica | Proyecto 5 |
 
-## 🚀 Cómo ejecutar
+## Cómo ejecutar
 
 Cada proyecto tiene su propio README con instrucciones específicas. En general:
 
-## 📧 Contacto
+## Contacto
 
-- **Email**: [tu.email@ejemplo.com]
+- **Email**: aurobarroso@gmail.com
 - **LinkedIn**: [tu-perfil-linkedin]
 - **GitHub**: [tu-usuario-github]
 
 ---
-*Desarrollado como demostración técnica para ClinBioinfo - Plataforma Andaluza de Medicina Computacional*
