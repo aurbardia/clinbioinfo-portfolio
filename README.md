@@ -1,9 +1,9 @@
-# ClinBioinfo Portfolio - Medicina Computacional
+# Portfolio de proyectos de Bioinformática y Medicina Computacional
 
 **Autor**: Aurora Barroso Díaz  
-**Objetivo**: Demostrar competencias técnicas alineadas con las líneas de investigación de ClinBioinfo / Plataforma Andaluza de Medicina Computacional.
+**Objetivo**: Mostrar un conjunto de proyectos personales que ilustran mis competencias en bioinformática, ciencia de datos y medicina computacional.
 
-## Sobre este portafolio
+## Sobre este portfolio
 
 Este repositorio contiene **5 mini-proyectos** que reflejan mi experiencia en:
 - **Vigilancia genómica y epidemiológica**
@@ -14,14 +14,14 @@ Este repositorio contiene **5 mini-proyectos** que reflejan mi experiencia en:
 
 ## Mi experiencia previa
 
-- **3 años** en Servicio de Electromedicina - Hospital Universitario Virgen del Rocío
+Soy Ingeniero Biomédico en Servicio de Electromedicina del Hospital Universitario Virgen del Rocío. Mis labores se han desarrollado en torno a la gestión de equipamiento médico, volcándo mi participación en:
 - Coordinación de instalación de equipos médicos críticos
 - Gestión integral de alertas sanitarias y documentación regulatoria
-- Administración de control de versiones (Tortoise SVN)
 - Liderazgo de plataforma de divulgación **Electroforma**
-- Programación: **Python, Java, Matlab, SQL**
 
-## Estructura del portafolio
+Quisiera desatacar también mi experiencia en desarrollo informático y programación, especialmente con lenguajes: **Python, Java, Matlab, SQL.** En este repositorio he recogido los proyectos que he desarrollado a nivel personal, están enfocados al análisis y desarrollo de nuevas técnicas de Bioinformática.
+
+## Estructura del portfolio
 
 ### [Proyecto 1: Vigilancia Genómica](./project1_vigilancia_genomica/)
 Simulación de pipeline para detección de mutaciones en secuencias virales (inspirado en SIEGA).
@@ -48,15 +48,6 @@ Ejemplo de pipeline reproducible con control de dependencias.
 - **Tecnologías**: Python, R, Docker, requirements.txt
 - **Aplicación**: FAIR data y open science
 
-## Conexión con ClinBioinfo
-
-| Mi experiencia | Línea ClinBioinfo | Proyecto demo |
-|---|---|---|
-| Alertas sanitarias + documentación | Vigilancia genómica (SIEGA) | Proyecto 1 |
-| Gestión de datos hospitalarios | iRWD - datos clínicos | Proyecto 2 |
-| Programación Python/Matlab | Bioinformática traslacional | Proyecto 3 |
-| Divulgación (Electroforma) | Formación y comunicación | Proyecto 4 |
-| Control de versiones SVN | Reproducibilidad científica | Proyecto 5 |
 
 ## Cómo ejecutar
 
@@ -65,7 +56,7 @@ Cada proyecto tiene su propio README con instrucciones específicas. En general:
 ## Contacto
 
 - **Email**: aurobarroso@gmail.com
-- **LinkedIn**: [tu-perfil-linkedin]
-- **GitHub**: [tu-usuario-github]
+- **LinkedIn**: (www.linkedin.com/in/aurora-barroso)
+- **GitHub**: (https://github.com/aurbardia)
 
 ---
